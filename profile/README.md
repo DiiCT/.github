@@ -1,6 +1,6 @@
 Hi there 👋
 
-DiiCT is a multilingual dictionary.
+DiiCT is a multilingual dictionary. It currently translates between the following languages: Armenian, Czech, Dutch, English, French, German, Italian, Polish, Portuguese, Russian, Spanish.
 
 Follow us on:
 - [Twitter](https://twitter.com/diict)
